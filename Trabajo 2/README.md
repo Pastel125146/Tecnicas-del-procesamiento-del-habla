@@ -1,6 +1,8 @@
 Análisis Semántico de Artículo de Wikipedia sobre Pizza
 
-Este proyecto realiza un análisis semántico sobre el artículo de Wikipedia sobre "Pizza". A continuación, se detalla lo que hace el script:
+Este proyecto realiza un análisis semántico sobre el artículo de Wikipedia sobre "Pizza". 
+
+A continuación, se detalla lo que hace el script:
 
 Scraping: Extrae el texto desde la página usando BeautifulSoup.
 
