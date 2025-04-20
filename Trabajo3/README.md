@@ -49,7 +49,7 @@ Promedios y estadísticas generales.
 
 --Conclusión General--
 + Este trabajo demuestra cómo se pueden unir datos no estructurados (texto) y datos estructurados (tabla) para generar un análisis integral.
-+ A través del texto, entendemos el contexto global del ranking y los temas más mencionados.
++ A través del texto, entendemos el contexto global del ranking y las empresas más mencionadas.
 + Con los datos estructurados, obtenemos información precisa, visual y comparativa entre empresas, países y sectores.
 + En conjunto, ofrecen una visión completa del panorama económico empresarial mundial en 2024.
 
