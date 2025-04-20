@@ -25,7 +25,7 @@ WordCloud para ver los conceptos clave visualmente.
 🔹 6. Extracción de tabla
 Se detecta y extrae la tabla del ranking desde el mismo artículo web utilizando BeautifulSoup y pandas.read_html().
 
-🔹 7. Limpieza de datos
+🔹 7. Limpieza de datos 
 Se renombran columnas.
 
 Se corrigen tipos de datos (por ejemplo, convertir capitalización bursátil a números).
@@ -33,17 +33,7 @@ Se corrigen tipos de datos (por ejemplo, convertir capitalización bursátil a n
 Se eliminan valores nulos o inconsistentes.
 
 🔹 8. Análisis exploratorio
-Se realizan distintos análisis sobre la tabla:
-
-Empresas con mayor capitalización.
-
-Distribución por país.
-
-Distribución por sector.
-
-Comparación entre continentes o regiones.
-
-Promedios y estadísticas generales.
+Se realizan distintos análisis sobre la tabla 
 
 🔹 9. Visualización de datos
 
