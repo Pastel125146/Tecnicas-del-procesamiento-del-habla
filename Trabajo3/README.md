@@ -13,7 +13,7 @@ Se limpia el texto eliminando signos de puntuación, stopwords, etc.
 Se usa spaCy para reducir las palabras a su forma base y unificar términos.
 
 🔹 4. Vectorización
-Se transforma el texto lematizado en una representación numérica (TF-IDF o Bag of Words).
+Se transforma el texto lematizado en una representación numérica.
 
 🔹 5. Visualización
 Gráfico de barras con las palabras más frecuentes.
