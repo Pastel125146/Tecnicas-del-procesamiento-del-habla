@@ -33,3 +33,27 @@ Vimos varias cosas que podemos hacer con SpaCy:
 
 **Este ejercicio sirvió para aprender a mirar un texto no solo como palabras, sino entender cómo está formado y qué información tiene.**
 
+----------------------------------------------------------------------
+
+Trabajo 3: Análisis de un artículo sobre empresas
+
+En el tercer trabajo elegí un artículo de una página que hablaba sobre las empresas más grandes del mundo.
+Primero hice Web Scraping para obtener el texto, y después apliqué técnicas del PLN como vectorización y otras librerías.
+
+¿Qué hice?
+
++ Hice preprocesamiento con Spacy
+
++ Usé tokenización y lematización (Para luego hacer una linea de tiempo)
+
++ Apliqué vectorización, que transforma palabras en números para poder analizarlas
+
++ Analicé qué palabras se repetían más en el texto con una nube de palabras y un grafico de barras y para visualizarlo de forma más linda y clara
+
++ Extraje una tabla de la pagina (con pandas) y la limpié
+
++ Vizualizo y trabajo con Entidades y eventos clave
+
++ Realizo un análisis de la tabla
+
+**Este trabajo fue más completo y usé varias herramientas para hacer un análisis real del contenido**
