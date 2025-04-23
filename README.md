@@ -29,7 +29,7 @@ Vimos varias cosas que podemos hacer con SpaCy:
 
 + Saber qué tipo de palabra es cada una (sustantivo, verbo, adjetivo, etc.)
 
-+ Detectar nombres de cosas como cantidades o ingredientes (entidades nombradas)
++ Detectar nombres de cosas (entidades nombradas)
 
 **Este ejercicio sirvió para aprender a mirar un texto no solo como palabras, sino entender cómo está formado y qué información tiene.**
 
