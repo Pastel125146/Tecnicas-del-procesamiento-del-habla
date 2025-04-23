@@ -48,8 +48,8 @@ Primero hice Web Scraping para obtener el texto, y después apliqué técnicas d
 
 + Apliqué vectorización, que transforma palabras en números para poder analizarlas
 
-+ Analicé qué palabras se repetían más en el texto con una nube de palabras y un grafico de barras y para visualizarlo de forma más linda y clara
-
++ Muestro las palabras más frecuentes del texto.
+  
 + Extraje una tabla de la pagina (con pandas) y la limpié
 
 + Vizualizo y trabajo con Entidades y eventos clave
