@@ -42,10 +42,10 @@ Primero hice Web Scraping para obtener el texto, y después apliqué técnicas d
 
 ¿Qué hice?
 
-+ Hice preprocesamiento con Spacy
++ Hice preprocesamiento con NLTK + spaCy (librerías de Python para procesamiento de lenguaje natural (NLP))
 
-+ Usé tokenización y lematización (Para luego hacer una linea de tiempo)
-
++ Hice tokenización y lematización para poder trabajar con cada palabra por separado y analizar el contenido con más precisión y menos ruido.
+  
 + Apliqué vectorización, que transforma palabras en números para poder analizarlas
 
 + Muestro las palabras más frecuentes del texto.
