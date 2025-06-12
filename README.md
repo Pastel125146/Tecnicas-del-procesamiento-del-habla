@@ -52,7 +52,7 @@ Primero hice Web Scraping para obtener el texto, y después apliqué técnicas d
   
 + Extraje una tabla de la pagina (con pandas) y la limpié
 
-+ Vizualizo y trabajo con Entidades y eventos clave
++ Visualizo y trabajo con Entidades y eventos clave
 
 + Realizo un análisis de la tabla
 
