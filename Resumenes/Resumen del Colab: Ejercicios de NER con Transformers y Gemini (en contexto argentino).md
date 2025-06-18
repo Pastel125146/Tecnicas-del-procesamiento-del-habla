@@ -40,3 +40,5 @@ Escalabilidad mediante procesamiento distribuido.
 Ética en el uso de modelos que procesan datos personales.
 
 Conclusión general Este cuaderno es un recorrido completo y práctico sobre NER aplicado a Argentina, con enfoque técnico y reflexivo. Muestra cómo combinar herramientas locales y nube para crear soluciones analíticas con conocimiento del contexto y sensibilidad a los datos.
+
+https://colab.research.google.com/drive/1dwjBqnACkv1CTa8sn82ZgnK-VQDBb67V
