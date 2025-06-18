@@ -20,3 +20,5 @@ Generación creativa de texto
 Se da el inicio de una historia o pregunta abierta, y se usa un modelo de generación de texto para completarla. Se evalúa la coherencia y creatividad del contenido generado.
 
 - En resumen: el notebook promueve el uso activo y crítico de modelos de lenguaje en español, incentivando la exploración, prueba y reflexión sobre los resultados que generan estos modelos en contextos reales y cotidianos del país.
+
+https://colab.research.google.com/drive/1hXBSLw0cjf2e_A6aQIuo7BkFhB8kjJ7C
