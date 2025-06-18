@@ -1,6 +1,6 @@
 En este Colab se desarrolla un micro-laboratorio práctico sobre representación vectorial de texto usando dos técnicas clave: Bolsa de Palabras (BoW) y TF-IDF. Se trabaja con un pequeño conjunto de reseñas sobre películas/documentales en español, que se procesan y analizan paso a paso.
 
-🧠 ¿Qué se hace?
+- ¿Qué se hace?
 Preprocesamiento de texto
 Se limpia y normaliza cada reseña aplicando minúsculas, eliminación de signos, stopwords y stemming. El resultado son versiones simplificadas listas para vectorizar.
 
@@ -16,7 +16,7 @@ Se examinan las palabras con mayor peso TF-IDF en una reseña específica para d
 
 Se identifican palabras que aparecen mucho en BoW pero tienen bajo peso TF-IDF, lo que indica que no aportan valor diferencial al texto (por ejemplo, términos genéricos o repetidos).
 
-🎯 Conclusión
+- Conclusión
 BoW muestra qué tan frecuentemente aparecen las palabras.
 
 TF-IDF destaca cuáles son realmente importantes y distintivas en cada reseña.
