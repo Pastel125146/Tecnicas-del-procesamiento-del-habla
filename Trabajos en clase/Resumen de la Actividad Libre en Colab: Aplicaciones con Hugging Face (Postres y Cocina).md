@@ -1,4 +1,5 @@
 🧁 Resumen de la Actividad Libre en Colab: Aplicaciones con Hugging Face (Postres y Cocina)
+
 En esta actividad exploratoria, se utilizan distintos pipelines de Hugging Face aplicados a textos con temática gastronómica (especialmente postres), para probar capacidades y límites de modelos de PLN en español. Las pruebas se organizan en cuatro mini-experimentos:
 
 1. Análisis de Sentimiento con sarcasmo y jerga
