@@ -1,6 +1,6 @@
 En este Colab se proponen seis ejercicios prácticos autónomos para aplicar conceptos clave del procesamiento de lenguaje natural (PLN) con modelos de Hugging Face, centrados en el idioma español y el contexto argentino. Cada ejercicio utiliza pipelines de Transformers para resolver tareas específicas. El objetivo es experimentar con diferentes modelos y analizar los resultados de forma crítica.
 
-📋 ¿Qué se hace en el Colab?
+- ¿Qué se hace en el Colab?
 Clasificación de textos propios
 Se redactan dos textos breves (opiniones o quejas) y se analiza su sentimiento utilizando un modelo de clasificación en español. Se compara el resultado del modelo con la percepción personal.
 
@@ -19,4 +19,4 @@ Se escribe un texto en español rioplatense, se traduce al inglés y luego se vu
 Generación creativa de texto
 Se da el inicio de una historia o pregunta abierta, y se usa un modelo de generación de texto para completarla. Se evalúa la coherencia y creatividad del contenido generado.
 
-🧠 En resumen: el notebook promueve el uso activo y crítico de modelos de lenguaje en español, incentivando la exploración, prueba y reflexión sobre los resultados que generan estos modelos en contextos reales y cotidianos del país.
+- En resumen: el notebook promueve el uso activo y crítico de modelos de lenguaje en español, incentivando la exploración, prueba y reflexión sobre los resultados que generan estos modelos en contextos reales y cotidianos del país.
