@@ -1,4 +1,5 @@
 Análisis Inteligente de Tickets de Soporte en E-commerce
+
 Este proyecto aplica procesamiento de lenguaje natural (PLN), modelos LLM y visualización interactiva para automatizar el análisis de quejas, elogios y consultas en e-commerce.
 
 -----+ Parte 1: Clasificación Automática de Tickets +-----
