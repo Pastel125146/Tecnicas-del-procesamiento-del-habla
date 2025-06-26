@@ -1,4 +1,4 @@
-##Técnicas del Procesamiento del Habla
+## Técnicas del Procesamiento del Habla
 
 Repositorio con materiales teóricos, prácticos y trabajos evaluativos de la materia. El foco está en aplicar herramientas actuales de procesamiento del lenguaje natural (NLP) al análisis de texto y habla, usando Python, notebooks en Colab y modelos preentrenados como BETO y Gemini.
 
